@@ -65,8 +65,6 @@ O site é totalmente responsivo, com pontos de quebra em:
 - Tablet: 1024px
 - Desktop: 1280px
 
-es.
-
 ## 🤝 Contribuindo
 
 1. Faça um fork do repositório
